@@ -26,6 +26,7 @@ int main() {
 
     int num1, num2, operacion;
 
+        cout<<"_____________________________________________________________"<<endl;
         cout<<"[---ingrese los digitos y la operacion que desea realizar:---]"<<endl;
         cout<<"[---suma[1], resta[2], multiplicacion[3], division[4]--------]"<<endl;
         cout<<"[operacion a realizar: ]"<<endl;
