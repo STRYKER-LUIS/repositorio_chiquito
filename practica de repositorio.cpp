@@ -17,7 +17,7 @@ int main() {
 
 
         if(email == emailcorrect && contrasena == clave) {
-            cout<<"[---A logrado ingresar sea bienvenido----]"<<endl;
+            cout<<"[---A logrado ingresar sea bienvenido-------]"<<endl;
         }
         else {
             cout<<"[----usuario incorrecto intente de nuevo----]"<<endl;
@@ -27,7 +27,7 @@ int main() {
     int num1, num2, operacion;
 
         cout<<"[---ingrese los digitos y la operacion que desea realizar:---]"<<endl;
-        cout<<"[---suma[1], resta[2], multiplicacion[3], division[4]------]"<<endl;
+        cout<<"[---suma[1], resta[2], multiplicacion[3], division[4]--------]"<<endl;
         cout<<"[operacion a realizar: ]"<<endl;
         cin>>operacion;
         cout<<"[ingrese el primer numero:] "<<endl;
